@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string-array name="genres_array">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Documentary</item>
+        <item>Drama</item>
+        <item>Family</item>
+    </string-array>
+</resources>
